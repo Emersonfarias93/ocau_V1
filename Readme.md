@@ -26,7 +26,7 @@ Facebook: (https://www.facebook.com/ocanvasdeusabilidade/)
 
 4. Local onde será disponibilizado uma imagem com o Canvas de usabilidade  ✅
 
-![Imagem cavas de Usabilidade!](/ocau_V1/assets/img/canvas.PNG)
+![Imagem cavas de Usabilidade!](/assets/img/canvas.PNG)
 
 5. Inserir Texto Informativo ✅
 
