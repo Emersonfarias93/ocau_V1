@@ -21,6 +21,7 @@ O site referência: https://ucdc.therectangles.com
 2. Inserir Links/ícones apontando para as redes sociais do projeto ✅
 
 Instagram: (https://www.instagram.com/ocanvasdeusabilidade/)
+
 Facebook: (https://www.facebook.com/ocanvasdeusabilidade/)
 
 3. Local onde será disponibilizado a Logo e o ícone ✅
