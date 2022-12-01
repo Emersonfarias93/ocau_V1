@@ -19,6 +19,7 @@ O site referência: https://ucdc.therectangles.com
 1. Inserir Slogan Planeje a Avaliação de Usabilidade da solução em uma única tela! ✅
 
 2. Inserir Links/ícones apontando para as redes sociais do projeto ✅
+
 Instagram: (https://www.instagram.com/ocanvasdeusabilidade/)
 Facebook: (https://www.facebook.com/ocanvasdeusabilidade/)
 
@@ -40,8 +41,14 @@ Usabilidade é um atributo de qualidade de software relacionado à facilidade de
 8. Inserir Texto Informativo ✅
 
 **Material de apoio**
+
 https://getbootstrap.com/docs/5.2/getting-started/introduction/G
+
 https://icons.getbootstrap.com/
+
 https://bootstrapmade.com/
+
 https://startbootstrap.com/themes
+
 https://themes.getbootstrap.com/
+
